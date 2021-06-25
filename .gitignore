@@ -1,3 +1,6 @@
 *.db
 .vs
 out
+CMakeSettings.json
+third-party/*/include
+cpp/lib/third-party/*/*

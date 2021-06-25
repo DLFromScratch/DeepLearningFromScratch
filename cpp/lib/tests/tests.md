@@ -1,0 +1,4 @@
+- Unit tests for all components go in here
+- We can probably use GoogleTest
+- You write it, you test it
+- We should aim for at least 0.5% coverage

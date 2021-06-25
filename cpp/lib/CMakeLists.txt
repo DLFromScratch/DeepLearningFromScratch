@@ -6,3 +6,9 @@ project ("api" LANGUAGES CXX)
 
 # Include sub-directory
 add_subdirectory("src")
+
+# Add testing if necessary
+if (BUILD_TESTING)
+	enable_testing ()
+	add_subdirectory ("tests")
+endif()

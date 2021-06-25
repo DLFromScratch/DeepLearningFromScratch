@@ -1,0 +1,3 @@
+- Source code for our library goes here
+- We should probably work on individual files to avoid merge conflicts
+- Can change file ownership around if we want
