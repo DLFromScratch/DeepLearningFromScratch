@@ -4,4 +4,6 @@ Ops:
 - Add
 - Subtract
 - Matmul
-- etc...
+- transpose
+- dot prod
+

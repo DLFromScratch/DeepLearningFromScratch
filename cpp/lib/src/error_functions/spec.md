@@ -1,0 +1,4 @@
+- categorical crossentropy
+- binary crossentropy
+- MSE
+- Mean absolute error
